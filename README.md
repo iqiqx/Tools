@@ -8,6 +8,7 @@
 * 判断网络的状态   NetUtils
 * 键盘管理    KeyBoardUtils
 * 获取位置经纬度   LocationUtils
+* 获取版本名称、版本号	AppUtils
 
 ### Gradle
 在项目的根目录build.gradle中添加
